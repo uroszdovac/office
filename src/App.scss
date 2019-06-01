@@ -48,44 +48,20 @@ a{
   color: black
 }
 
-header{
-  background-color: #00BCD4;
-  text-align: center;
-  color: white;
-  padding-top: 10px;
-}
-header button{
-  width: 50%;
-  background-color: #00BCD4;
-  outline: none;
-  border: none;
-  border-bottom: 3px solid #00BCD4;
-  color:white;
-  font-size: 1.4em;
-}
-
 .officesDiv{
   margin: 10px;
   background-color: #00BCD4;
 }
 
-header button:active{
-  border-bottom: 3px solid #FFFF33;
-}
-
-header h1{
-  font-size: 2em;
-}
-
 .listItem{
   display: flex;
   padding: 10px;
-}
 
-.listItem img{
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
+    img{
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+    }
 }
 
 .logoPic{

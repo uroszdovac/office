@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 import Header from './partials/Header';
 import OfficeList from './office/OfficeList';
 import SingleOfficePage from './office/SingleOfficePage';
