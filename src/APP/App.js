@@ -3,7 +3,6 @@ import './App.scss';
 import Header from './partials/Header';
 import OfficesPage from './office/officesPage';
 import DataService from './services/dataService';
-import MapPage from './office/MapPage';
 import Animation from '../APP/partials/Animation';
 
 class App extends React.Component{

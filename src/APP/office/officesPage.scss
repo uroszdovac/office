@@ -13,10 +13,10 @@
     .officesDivGrid{
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-between;
+        justify-content: space-around;
 
-        a{
-            width: 50%;
+        .officeGridItem{
+            width: 45%;
         }
     }
 }
@@ -27,8 +27,8 @@
         display: flex;
         justify-content: space-around;
         
-        a{
-            width: 25%;
+        .officeGridItem{
+            width: 22%;
         }
     }
 }
